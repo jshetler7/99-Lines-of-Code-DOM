@@ -1,0 +1,25 @@
+body {
+    background-color: rgba(3, 74, 107, 0.658);
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-size: 4em;
+    text-align: center;
+}
+.bg-image {
+    height: 200px;
+    width: auto;
+    background: url(bckgrnd.jpg);
+}
+.friend {
+    background-color: rgba(207, 217, 221, 0.212);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    border-radius: 10em;
+}
+h3 {
+    text-transform: uppercase;
+    margin-bottom: 2em;
+    font-size: 24px;
+}
